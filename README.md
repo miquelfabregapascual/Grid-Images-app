@@ -4,11 +4,11 @@
 ## Screenshots
 - Grid View
 
-<img src="images/gridView.PNG" alt="Grid View" width="100"/>
+<img src="images/gridView.PNG" alt="Grid View" width="150"/>
 
 - Full Image View
   
-<img src="images/fullImage.PNG" alt="Full Image View" width="100"/>
+<img src="images/fullImage.PNG" alt="Full Image View" width="150"/>
 
 ## Features
 
